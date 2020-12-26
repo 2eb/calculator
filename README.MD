@@ -1,1 +1,1 @@
-An Implementation of the Calculator Project from The Odin Project curriculum.
+An implementation of the Calculator Project from The Odin Project curriculum.
